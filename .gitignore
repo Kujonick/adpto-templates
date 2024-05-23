@@ -1,2 +1,7 @@
 .idea/
 __pycache__/
+**/graphs/
+**/solutions/
+**/graph_coloring/
+**/sat_formulas/
+**/graphs_solutions/
